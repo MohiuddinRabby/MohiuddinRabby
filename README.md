@@ -6,8 +6,6 @@
 
 ###  Hi there, I'm Mohiuddin.
 
-- 🔭 I’m currently learing ReactJS
-
 #### Stacks I love to work with
 
 ```js
