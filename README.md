@@ -12,7 +12,7 @@
 {
 "Frontend"  : [ "ReactJS" ],
 "Backend"  : [ "Node", "Express" ],
-"UI"       : [ "Boostrap", "Material" ]
+"UI"       : [ "Bootstrap", "Material" ]
 }
 ```
 
