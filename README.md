@@ -11,7 +11,6 @@
 ```js
 {
 "Frontend"  : [ "ReactJS" ],
-"Backend"  : [ "Node", "Express" ],
 "UI"       : [ "Bootstrap", "Material" ]
 }
 ```
